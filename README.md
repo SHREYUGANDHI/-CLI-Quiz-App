@@ -1,1 +1,1 @@
-# -CLI-Quiz-App
+# CLI-Quiz-App
